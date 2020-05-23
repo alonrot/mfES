@@ -1,0 +1,5 @@
+.DS_Store
+*.asv
+*.m~
+results/
+pathdef.m
